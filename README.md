@@ -1,7 +1,5 @@
 # kickstart.nvim
 
-https://github.com/kdheepak/kickstart.nvim/assets/1813121/f3ff9a2b-c31f-44df-a4fa-8a0d7b17cf7b
-
 ### Introduction
 
 A starting point for Neovim that is:
@@ -70,10 +68,6 @@ If you would prefer to hide this step and run the plugin sync from the command l
 ```sh
 nvim --headless "+Lazy! sync" +qa
 ```
-
-### Getting Started
-
-See [Effective Neovim: Instant IDE](https://youtu.be/stqUbv-5u2s), covering the previous version. Note: The install via init.lua is outdated, please follow the install instructions in this file instead. An updated video is coming soon.
 
 ### Recommended Steps
 
